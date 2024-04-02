@@ -1,0 +1,7 @@
+C:\Users\HP\source\repos\recentTask\recentTask\bin\Debug\recentTask.exe.config
+C:\Users\HP\source\repos\recentTask\recentTask\bin\Debug\recentTask.exe
+C:\Users\HP\source\repos\recentTask\recentTask\bin\Debug\recentTask.pdb
+C:\Users\HP\source\repos\recentTask\recentTask\obj\Debug\recentTask.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\recentTask\recentTask\obj\Debug\recentTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\recentTask\recentTask\obj\Debug\recentTask.exe
+C:\Users\HP\source\repos\recentTask\recentTask\obj\Debug\recentTask.pdb
